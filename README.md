@@ -16,6 +16,7 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 * **Memory:** ADATA GAMMIX D20, 8GB DDR4, 3200MHz CL16
 * **Storage (macOS):** Solid-State Drive (SSD) Kingston NV1, 500gb, NVMe, M.2
 * **Storage (Windows):** Solid-State Drive (SSD) Kingston A2000, 1 TB, NVMe, M.2
+* **Storage (Extra):** WD Blue 3.5 1TB 7200rpm 64MB SATA3
 * **Video Card:** AMD Radeon R9 290X
 * **Power Supply:** EVGA 700B Power Supply
 * **Case:** Inaza Black Ship

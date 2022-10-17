@@ -2,6 +2,8 @@
 Installation guide for my Hackintosh build dual-booting macOS Monterey and Windows 10.
 This build is based on [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 
+![win](https://user-images.githubusercontent.com/59319107/196250897-9f45250d-2b0a-426f-bac2-56fa1027b5e0.png)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/eduardolteanu)
 
 ## Table of Contents

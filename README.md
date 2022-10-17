@@ -9,6 +9,8 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 ## Table of Contents
 * [Specs](#specs)
 * [Installation](#installation)
+* [EFI Cleansed](#efi-cleansed)
+
 
 ## Specs
 
@@ -31,6 +33,7 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 ### USB Creation
 The drivers, kexts, and SSDTs I used are as follows:
 
+
 * ACPI
   * SSDT-AWAC.aml
   * SSDT-EC-USBX-DESKTOP.aml
@@ -49,5 +52,15 @@ The drivers, kexts, and SSDTs I used are as follows:
   * SMCSuperIO.kext
   * VirtualSMC.kext
   * WhateverGreen.kext
+
+## EFI Cleansed
+Modified config.plist for faster boot time and cleaner look.
+Added new drivers.
+
+### New
+* Drivers
+  * OpenCanopy.efi
+  
+
 
   

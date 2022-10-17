@@ -10,15 +10,15 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 
 ## Specs
 
-* **CPU:** Intel Core i5-10600K
-* **CPU Cooler:** be quiet! Pure Rock SLIM
-* **Motherboard:** MSI MAG B460M BAZOOKA
-* **Memory:** ADATA GAMMIX D20, 8GB DDR4, 3200MHz CL16
-* **Storage (macOS):** Solid-State Drive (SSD) Kingston NV1, 500gb, NVMe, M.2
-* **Storage (Windows):** Solid-State Drive (SSD) Kingston A2000, 1 TB, NVMe, M.2
-* **Storage (Extra):** WD Blue 3.5 1TB 7200rpm 64MB SATA3
+* **CPU:** [Intel Core i5-10600K](https://amzn.to/3D1TDpA)
+* **CPU Cooler:** [be quiet! Pure Rock SLIM](https://amzn.to/3TerLUX)
+* **Motherboard:** [MSI MAG B460M BAZOOKA](https://amzn.to/3yNvxMU)
+* **Memory:** [ADATA GAMMIX D20, 8GB DDR4, 3200MHz CL16](https://amzn.to/3eAB7vk)
+* **Storage (macOS):** [Solid-State Drive (SSD) Kingston NV1, 500gb, NVMe, M.2](https://amzn.to/3zaozlt)
+* **Storage (Windows):** [Solid-State Drive (SSD) Kingston A2000, 1 TB, NVMe, M.2](https://amzn.to/3eE4IUC)
+* **Storage (Extra):** [WD Blue 3.5 1TB 7200rpm 64MB SATA3](https://amzn.to/3Vzov85)
 * **Video Card:** AMD Radeon R9 290X
-* **Power Supply:** EVGA 700B Power Supply
+* **Power Supply:** [EVGA 700B Power Supply](https://amzn.to/3SdGbDj)
 * **Case:** Inaza Black Ship
 * **Monitor:** Acer K272HUL
 * **Keyboard:** Logitech 610

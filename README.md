@@ -33,7 +33,6 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 ### USB Creation
 The drivers, kexts, and SSDTs I used are as follows:
 
-
 * ACPI
   * SSDT-AWAC.aml
   * SSDT-EC-USBX-DESKTOP.aml
